@@ -4,4 +4,8 @@
   <a href="https://www.linkedin.com/in/celeste-rhoades/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-%237192b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+    <a href="[https://www.linkedin.com/in/celeste-rhoades/](https://wellfound.com/u/celeste-rhoades)" target="_blank" >
+    <img src="[https://img.shields.io/badge/LinkedIn-%237192b5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Wellfound-%23E5DBDC?style=for-the-badge&logo=wellfound&logoColor=white
+)"/>
+  </a>
 </p>
