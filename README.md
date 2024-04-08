@@ -1,4 +1,4 @@
-I'm Celeste
+
 <img src="https://github.com/Celeste-Rhoades/Celeste-Rhoades/blob/main/Git%20hub%20banner.png" width="100%" alt=" colorful banner with Celeste Rhoades Software Engineer written on it">
 
 <p align='center'>
@@ -13,3 +13,4 @@ I'm Celeste
   </a>
   
 </p>
+<h4 align='center'>I'm a Full-stack Engineer that's passionate about coding, and love turning my ideas into reality, one line of code at a time </h4>
