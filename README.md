@@ -1,3 +1,4 @@
+I'm Celeste
 <img src="https://github.com/Celeste-Rhoades/Celeste-Rhoades/blob/main/Git%20hub%20banner.png" width="100%" alt=" colorful banner with Celeste Rhoades Software Engineer written on it">
 
 <p align='center'>
