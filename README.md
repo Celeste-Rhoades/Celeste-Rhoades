@@ -1,4 +1,4 @@
-### Hi there 👋
+![Colorful Banner with Celeste Rhoades Software Engineer written in it](https://github.com/Celeste-Rhoades/Celeste-Rhoades/blob/main/Git%20hub%20banner.png)
 
 <!--
 **Celeste-Rhoades/Celeste-Rhoades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
