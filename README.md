@@ -13,4 +13,3 @@
   </a>
   
 </p>
-<h4 align='center'>I'm a Full-stack Engineer who's passionate about coding, and loves turning my ideas into reality, one line of code at a time.</h4>
