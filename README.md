@@ -11,7 +11,7 @@
     <a href="https://twitter.com/CelesteIsBest88" target="_blank">
     <img src="https://img.shields.io/badge/X%7CTwitter-%2390d9d3?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <p>       I'm Celeste, I have a passion for creating and improving things. My
+  <p align='center'>       I'm Celeste, I have a passion for creating and improving things. My
             journey into software engineering began with a simple thought: "If I
             knew how to code, I'd make an app for this" Now, I'm not just
             thinking about it, I'm living it, and the joy of seeing my ideas
