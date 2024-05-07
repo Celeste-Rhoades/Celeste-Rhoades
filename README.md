@@ -11,9 +11,15 @@
     <a href="https://twitter.com/CelesteIsBest88" target="_blank">
     <img src="https://img.shields.io/badge/X%7CTwitter-%2390d9d3?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <p align='center'>       I'm Celeste, I have a passion for creating and improving things. My
-            journey into software engineering began with a simple thought: "If I
-            knew how to code, I'd make an app for this" Now, I'm not just
-            thinking about it, I'm living it, and the joy of seeing my ideas
-            come to life drives my desire to keep pushing code</p>
+  <p align='center'>         Hi, I'm Celeste! My journey into Software Engineering began with a
+              simple thought, “If I knew how to code, I’d make an app for this.”
+              Now, the satisfaction of seeing my ideas come to life is what
+              keeps me motivated to write code. It's not just about the end
+              product; it's the process of bringing an idea from concept to
+              reality that truly excites me.
+           
+              Outside of programming, I enjoy river rafting, nature, and spending
+              time with my family. My life experiences continue to inspire my
+              creativity, making sure my work isn't just about programming but
+              also about making a real difference.
 </p>
