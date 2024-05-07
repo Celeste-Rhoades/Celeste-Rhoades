@@ -18,8 +18,4 @@
               product; it's the process of bringing an idea from concept to
               reality that truly excites me.
            
-              Outside of programming, I enjoy river rafting, nature, and spending
-              time with my family. My life experiences continue to inspire my
-              creativity, making sure my work isn't just about programming but
-              also about making a real difference.
-</p>
+  </p>
