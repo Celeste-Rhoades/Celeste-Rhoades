@@ -8,7 +8,7 @@
      <a href="https://wellfound.com/u/celeste-rhoades" target="_blank">
     <img src="https://img.shields.io/badge/Wellfound-%23E5DBDC?style=for-the-badge&logo=wellfound&logoColor=black"/>
   </a>
-    <a href="https://twitter.com/CelesteIsBest88" target="_blank">
+    <a href="https://twitter.com/TheBestCeleste2" target="_blank">
     <img src="https://img.shields.io/badge/X%7CTwitter-%2390d9d3?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
