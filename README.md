@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/X%7CTwitter-%2390d9d3?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
       <a href="https://bsky.app/profile/celestethebest.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/X%7CTwitter-%2390d9d3?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BlueSky-%2390d9d3?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
 
