@@ -20,5 +20,5 @@
       <a href="https://bsky.app/profile/celestethebest.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-%238a8ba6?style=for-the-badge&logo=bluesky&logoColor=white"/>
   </a>
-
+</p>
 
