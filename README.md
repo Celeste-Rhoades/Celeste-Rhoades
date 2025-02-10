@@ -3,8 +3,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/celeste-rhoades/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn?labelColor=%23657d99
-"/>
+    <img src="https://img.shields.io/badge/Wellfound-%4a6787?style=for-the-badge&logo=wellfound&logoColor=white"/>
 
   </a>
      <a href="https://wellfound.com/u/celeste-rhoades" target="_blank">
