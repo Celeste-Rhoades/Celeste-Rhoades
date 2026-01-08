@@ -1,4 +1,12 @@
 <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Celeste-Rhoades/Celeste-Rhoades/main/Git%20hub%20banner.png"
+    width="100%"
+    alt="Celeste Rhoades — Software Engineer banner"
+  />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/celeste-rhoades/" target="_blank" rel="noopener noreferrer">
     <img src="./assets/badges/linkedin.svg" alt="LinkedIn">
   </a>
