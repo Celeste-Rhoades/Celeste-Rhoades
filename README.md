@@ -8,18 +8,30 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/celeste-rhoades/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn--%234a6787?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://celesterhoadesdesign.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-3E5DBC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio--%23E5DBDC?style=for-the-badge&labelColor=white"
+      alt="Portfolio"
+    />
   </a>
 
   <a href="https://twitter.com/TheBestCeleste2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X%20%7C%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img
+      src="https://img.shields.io/badge/X%7ETwitter--%2390d9d3?style=for-the-badge&logo=x&logoColor=white"
+      alt="X / Twitter"
+    />
   </a>
 
   <a href="https://bsky.app/profile/celestethebest.bsky.social" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/BLUESKY-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+    <img
+      src="https://img.shields.io/badge/Bluesky--%23a8aba6?style=for-the-badge&logo=bluesky&logoColor=white"
+      alt="Bluesky"
+    />
   </a>
 </p>
