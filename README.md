@@ -7,10 +7,10 @@
 />
 
   </a>
-     <a href="https://wellfound.com/u/celeste-rhoades" target="_blank">
+     <!-- <a href="https://wellfound.com/u/celeste-rhoades" target="_blank">
            <img src="https://img.shields.io/badge/Wellfound-%237192b5?style=for-the-badge&logo=wellfound&logoColor=white"
 />
-     </a>
+     </a> -->
 <a href="https://celesterhoadesdesign.com/">
        <img src="https://img.shields.io/badge/Portfolio-%23E5DBDC?style=for-the-badge&labelColor=white"
 />
